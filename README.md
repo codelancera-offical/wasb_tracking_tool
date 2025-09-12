@@ -13,7 +13,7 @@
 ### 1. 克隆代码仓库
 
 ```sh
-git clone 
+git clone https://github.com/codelancera-offical/wasb_tracking_tool.git
 ```
 
 ### 2. 环境配置
